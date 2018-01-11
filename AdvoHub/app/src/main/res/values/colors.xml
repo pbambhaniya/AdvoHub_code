@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#303F52</color>
+    <color name="colorPrimaryDark">#303F52</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorBgPage">#EFEFEF</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorBlack">#000</color>
+    <color name="yellow">#F1E15A</color>
+
+    <color name="Blue">#fa357fff</color>
+    <color name="colorGreen">#008000</color>
+    <color name="colorTextHint">#8B8B8B</color>
+    <color name="gray">#1e303f52</color>
+    <color name="bg_blue">#185a9d</color>
+    <color name="colorPrimaryAddDetailView">#29303f52</color>
+    <color name="availabilty_today">#25AF1B</color>
+    <color name="not_availabilty_today">#af1b25</color>
+    <color name="delete">#FF1D1D</color>
+    <color name="viewborder">#95989A</color>
+</resources>

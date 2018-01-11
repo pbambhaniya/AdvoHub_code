@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Atmiya Law Lab</string>
+
+
+    <string-array name="prefix">
+        <item>23-September-2017</item>
+        <item>24-September-2017</item>
+        <item>25-September-2017</item>
+        <item>26-September-2017</item>
+    </string-array>
+
+
+    <string-array name="time">
+        <item>10:40 PM</item>
+        <item>11:50 PM</item>
+        <item>12:60 PM</item>
+        <item>1:10 PM</item>
+    </string-array>
+
+
+    <string-array name="city">
+        <item>Enter City</item>
+        <item>Surat</item>
+        <item>Baroda</item>
+        <item>Vapi</item>
+        <item>Bardoli</item>
+    </string-array>
+
+
+    <string-array name="spacylization">
+        <item>Enter Speacilization</item>
+    </string-array>
+
+    <string-array name="experience">
+        <item>Enter Experience</item>
+        <item>1 Year</item>
+        <item>2 Year</item>
+        <item>3 Year</item>
+        <item>4 Year</item>
+    </string-array>
+    <string-array name="Category">
+        <item>Category</item>
+        <item>Criminal Case</item>
+        <item>Cybar Case</item>
+    </string-array>
+
+    <string-array name="Location">
+        <item>Location</item>
+        <item>Surat</item>
+        <item>Baroda</item>
+        <item>Ahmadabad</item>
+    </string-array>
+
+    <string name="oreder_des">  Welcome  <font color="#e20000">Lawyer Name</font>   </string>
+    <string name="title_activity_menu">ActivityMenu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_user_drawer">UserDrawerActivity</string>
+    <string name="assign_lawyer_case">are you sure you want to assign \n your case to lawyer</string>
+    <string name="already_assign_case">you already assigned your \n case to</string>
+
+    /******************************************************************************************/
+
+    <string name="mobile">Enter Mobile No</string>
+    <string name="profile">Enter Profile Image</string>
+    <string name="gender">Enter Gender</string>
+    <string name="ContactNo">Enter Contact No</string>
+    <string name="ValidCNo">Enter valid Contact No</string>
+    <string name="ContactName">Enter Contact Name</string>
+    <string name="Profession">Enter Profession</string>
+    <string name="Date">Enter Date</string>
+    <string name="DOB">Enter Date of birth</string>
+
+
+    /******************************************************************************************/
+
+
+</resources>
